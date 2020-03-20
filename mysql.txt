@@ -1,0 +1,4 @@
+d:
+cd D:\MySQL\mysql-8.0.19-winx64\bin
+mysql -u root -p
+ip6AWpf&gHjb
